@@ -38,6 +38,7 @@ namespace RenameMP4
             }
 
             Console.WriteLine("{0} files renamed.", cnt);
+            Console.ReadKey();
         }
     }
 }
